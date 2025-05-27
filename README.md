@@ -87,3 +87,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
 ###
 
+![snake gif](https://github.com/novan468/novan468/blob/output/github-snake-dark.svg)
+
