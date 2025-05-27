@@ -5,15 +5,24 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/n1gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/novan-rizki-wicaksono16" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/novanrizki1234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"/>
+  </a>
+  <a href="mailto:novanrizki1234@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/novan1230" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"/>
+  </a>
 </div>
 
 ###
@@ -24,9 +33,9 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
-<h3 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h3>
+<h4 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h4>
 
 ###
 
@@ -35,28 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> </div>
 
 <h2 align="left">📊 GitHub Stats</h2>
 
@@ -95,8 +83,18 @@
   <img src="https://github-profile-trophy.vercel.app?username=novan1230&theme=juicyfresh&column=-1&row=5&margin-w=10&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
 ###
 
 <img src="https://raw.githubusercontent.com/novan1230/novan1230/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
