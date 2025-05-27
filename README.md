@@ -87,14 +87,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=novan1230&limit=5&theme=neon&combine_all_yearly_contributions=true)
 ###
 
-<img src="https://raw.githubusercontent.com/novan1230/novan1230/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novan1230/novan1230/output/pacman-contribution-graph.svg">
-</picture>
-
-###
