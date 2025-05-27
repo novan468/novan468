@@ -24,15 +24,7 @@
 
 ###
 
-<h1 align="center">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h1>
-
-###
-
 <h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
 
 <h3 align="left">I'm Novan, an Data Analyst enthusiast who is passionate about turning data into meaningful insights. With a background in accounting, I have skills in SQL, statistics, Excel, and data visualization (Tableau/Power BI)</h3>
 
